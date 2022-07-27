@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Kotlin_AddressBook</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="first_Name">First Name</string>
+    <string name="last_Name">Last Name</string>
+    <string name="street_Name">Street Address</string>
+    <string name="city_Name">City</string>
+    <string name="state_Name">State</string>
+    <string name="zip_Name">Zip</string>
+    <string name="save_Name">Save</string>
+    <string name="sync_Name">Auto Sync</string>
+
+</resources>
